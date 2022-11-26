@@ -11,4 +11,5 @@ The assignment consists in processing different datasets shared by researchers/l
 1. Familiarize themselves with OpenRefine and, in particular, its “reconciliation function”
 2. Establish an efficient workflow
 3. Manipulate regular expressions
+
 The goal of the resulting dataset won’t be directly evaluated, however it will be a direct consequence of the previous points.
